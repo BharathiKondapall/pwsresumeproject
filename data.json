@@ -1,0 +1,64 @@
+ {
+	"details":{
+	"image": "bharathi1.png",
+	"name": "bharathi",
+	"phoneno": "987654321",
+	"email": "bharathikondapalli1999@gmail.com",
+	"Address":"vignan's nirula college"
+  },
+ "career":{
+ "info":"To pursue a challenging career and be a part of progressive organization"
+ },
+ "education":[
+{
+"qualification":"B.tech",
+"institute":"vignans nirula college",
+"year":"2016",
+"percentage":"96%"
+},
+{
+"qualification":"intermediate",
+"institute":"sri chaitanya college",
+"year":"2015", 
+"percentage":"96%"
+},
+{
+"qualification":"ssc",
+"institute":"tcps",
+"year":"2014",
+"percentage":"97%"
+}
+],
+"skills":[
+{
+	"title":"programming languages",
+	"info":["c","java","c++"]
+},
+{
+	"title":"Database",
+	"info":["sql","msql","oracle"]
+},
+{
+	"title":"operating system",
+	"info":["windows","linux","ubuntu"]
+}
+],
+"achievements":[
+{
+	"title":"got certificate in IOT"
+},
+{
+	"title":"got certificate in MOC"
+}
+
+]
+
+}
+
+
+
+
+
+
+
+	
